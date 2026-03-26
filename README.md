@@ -27,7 +27,7 @@ The dashboard is designed to analyze campaign performance and key advertising me
 
 ## Dashboard Preview
 
-
+![Dashboard](Marketing-Dashboard-Looker-Studio.png)
 
 ---
 
