@@ -36,5 +36,5 @@ The dashboard is designed to analyze campaign performance and key advertising me
 
 ---
 
-## 🔗 Live Dashboard
-https://lookerstudio.google.com/u/0/reporting/ea32da0c-341f-4191-8324-20f0d80a2dbd/page/OLTjF
+## Live Dashboard
+[View Dashboard](https://lookerstudio.google.com/u/0/reporting/ea32da0c-341f-4191-8324-20f0d80a2dbd/page/OLTjF)
